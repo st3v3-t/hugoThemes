@@ -1,5 +1,6 @@
-
 # Hugo themes
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fst3v3-t%2FhugoThemes.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fst3v3-t%2FhugoThemes?ref=badge_shield)
+
 
 A collection of all themes that were created by the Hugo community. See a complete listing of all of these themes along with screenshots and demos at [themes.gohugo.io](http://themes.gohugo.io/). Every theme in this list will automatically be added to the theme site.
 
@@ -102,3 +103,7 @@ This is because its content will appear in two places&mdash;i.e., it will appear
 1. At GitHub (as usual), on your theme's regular main page.
 
 **Note:** If you add screenshots to the README please make use of absolute file paths instead of relative ones like `/images/screenshot.png`. Relative paths work great on GitHub but they don't correspond to the directory structure of [themes.gohugo.io](http://themes.gohugo.io/). Therefore, browsers will not be able to display screenshots on the theme site under the given (relative) path.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fst3v3-t%2FhugoThemes.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fst3v3-t%2FhugoThemes?ref=badge_large)
